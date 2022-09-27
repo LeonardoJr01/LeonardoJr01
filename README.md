@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm Leonardo Junior !!</h1>
-<h3 align="center"> I'm a Information Systems student and an aspiring programmer </h3>
+<h3 align="center"> I'm a Information Systems student and an aspiring developer </h3>
 
 <div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LeonardoJr01&show_icons=true&theme=synthwave">
