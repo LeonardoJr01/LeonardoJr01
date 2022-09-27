@@ -8,6 +8,6 @@
 
 <hr>
 <p align="left">
-<a href="https://https://www.instagram.com/leozin.logg/" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20rem" style="max-width:100%;"></a>
-<a href="www.linkedin.com/in/leiser-victor" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20rem" style="max-width:100%;"></a>
+<a href="https://www.instagram.com/leozin.logg/" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20rem" style="max-width:100%;"></a>
+<a href="https://www.linkedin.com/in/leonardo-junior-b75774182/" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20rem" style="max-width:100%;"></a>
 </a> </p>
