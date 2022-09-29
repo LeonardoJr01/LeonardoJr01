@@ -5,7 +5,7 @@
   <a href="https://github.com/LeonardoJr01">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LeonardoJr01&show_icons=true&theme=synthwave">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJr01&layout=compact&langs_count=16&theme=synthwave" style="max-width:100%;">
-    <img align="right" alt="LeoJr-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/533088766336958465/1025047661155463288/IMG_5336.png">
+    <img align="right" alt="LeoJr-pic" height="130" style="border-radius:40px;" src="https://cdn.discordapp.com/attachments/533088766336958465/1025047661155463288/IMG_5336.png">
   </div>
 
 <hr>
