@@ -12,4 +12,11 @@
 <p align="left">
 <a href="https://www.instagram.com/leozin.logg/" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20rem" style="max-width:100%;"></a>
 <a href="https://www.linkedin.com/in/leonardo-junior-/" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20rem" style="max-width:100%;"></a>
+<p align="center"> if(!ProjectRunSuccessful){ <br>
+res.status(502).json({ message: "Hope I won't regret!!" }) <br>
+TryAgain() <br>
+}else { <br>
+res.status(200).json({ message: "Yourself were improved successfully!! }) <br>
+}
+</p>
 </a> </p>
